@@ -97,22 +97,22 @@ When you're done, please create your public repository on GitHub and communicate
 
 Make sure that you put the instructions in your README file on how to run unit tests so that we can easily see the result.
 
-# 2. Pair Programming (1 hour)
 
-During this visio-conference interview, the interviewer will present you a new feature to implement on top of your project.
-
-Be sure to have a working environment before this session.
-
-# 3. Presentation and collective review (1 hour)
+# 2. Presentation and collective review (1 hour)
 
 During this session, you have the opportunity to present **in english** your project to two engineers. You could consider that those engineers are familiar with the problem but not with your solution. Present the model and your test strategy.
 
-Engineers will ask you some questions. For example:
+Be sure to have a working environment before this session.
+
+
+Engineers will ask you some questions.
+
+For example:
 - What could be the AWS infrastructure of this Alerting Notification System ?
 - Explains how you manage the Consistency Issue (2 alerts received at the same time) ?
 
 # Questions
 
-If you have questions, feel free to ask them to the Talent Acquisition Specialist.
+__Feel free to apply! Drop us a line with your Linkedin/Github/Twitter/AnySocialProfileWhereYouAreActive at hr@turingtechnologies.org__
 
 Thanks!
