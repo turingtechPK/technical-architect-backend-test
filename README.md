@@ -19,7 +19,8 @@ For the sake of this exercise, let's imagine we want to implement an in-house al
 
 Here is the architecture of this system:
 
-![Architecture of the Alert Notification System](architecture-diagram.png)
+![architecture-diagram](https://user-images.githubusercontent.com/88223175/177583565-a6f2f7ff-b762-447a-a5a3-862d949aaca4.png)
+
 
 Through the web console, our engineer is able to read and edit the Escalation Policy:
 
