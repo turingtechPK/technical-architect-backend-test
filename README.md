@@ -118,3 +118,6 @@ For example:
 __Feel free to apply! Drop us a line with your Linkedin/Github/Twitter/AnySocialProfileWhereYouAreActive at hr@turingtechnologies.org__
 
 Thanks!
+
+:warning: Do not fork this repository and do not submit any Pull Requests :warning:
+
